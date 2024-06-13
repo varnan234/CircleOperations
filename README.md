@@ -14,4 +14,5 @@ This project includes methods to:
 The main class `CircleOperations` uses these methods to perform the specified operations and display the results.
 
 ## Resources
-1. [Java Documentation](https://docs.oracle.com/javase/8/docs/)
+- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
+- [ChatGPT](https://chatgpt.com): Fix the errors in the code give below
